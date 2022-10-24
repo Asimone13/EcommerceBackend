@@ -5,7 +5,6 @@
 * [User Story](#user-story)
 * [Acceptance Critiera](#acceptance-criteria)
 * [Walk Through](#walk-through)
-* [License](#license)
 * [Installation](#installation)
 
 ### Challenge:
